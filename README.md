@@ -10,4 +10,4 @@ Aplicações de **conceitos básicos do Javascript** através da criação de um
 
 Revisei a estilização do programa no CSS e inseri também outras funcionalidades, como **alert e prompt**.  
 
-<a href="https://codepen.io/raynebatista/pen/vYZpvbW" target="_blank">Projeto 1 - Calculadora de média</a>
+[Projeto 1 - Calculadora de média](https://codepen.io/raynebatista/pen/vYZpvbW)
