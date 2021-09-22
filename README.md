@@ -21,3 +21,13 @@ Além disso, algumas funções pré estabelecidas pela documentação do Javascr
 Como exercício extra, criei um conversor de quilômetros para anos luz, aplicando os conceitos aprendidos em aula no desenvolvimento. 
 
 [Projeto 2 - Spaceship Adventure](https://codepen.io/raynebatista/pen/wveXmOV)
+
+## Aula 3 - Mentalista
+
+Uso dos conhecimentos aprendidos nas aulas anteriores e aprendizagem de novos conceitos de **estruturas condicionais (If/Else)** para criar um jogo de adivinhação. 
+
+Como exercício extra, precisávamos acrescentar mais duas funções: chances limitadas; Informar se o número inserido é maior ou menor que o número secreto.  
+
+Desse modo, fiz o projeto 3 e pude aprender mais sobre o uso dos conceitos aprendidos em aula, além de ter que pesquisar mais sobre a documentação do Javascript, para que conseguisse esconder o botão de chute ao acertar o número ou quando as chances se esgotassem. 
+
+[Projeto 3 - Guess the number or...whatever.](https://codepen.io/raynebatista/pen/QWgBNJB)
