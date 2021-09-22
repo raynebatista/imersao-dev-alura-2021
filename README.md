@@ -11,3 +11,13 @@ Aplicações de **conceitos básicos do Javascript** através da criação de um
 Revisei a estilização do programa no CSS e inseri também outras funcionalidades, como **alert e prompt**.  
 
 [Projeto 1 - Calculadora de média](https://codepen.io/raynebatista/pen/vYZpvbW)
+
+## Aula 2 - Conversor de moedas
+
+Nessa aula aprendi sobre **funções** e seu uso aplicado em códigos HTML através da criação de um conversor de moedas. 
+
+Além disso, algumas funções pré estabelecidas pela documentação do Javascript também foram utilizadas. 
+
+Como exercício extra, criei um conversor de quilômetros para anos luz, aplicando os conceitos aprendidos em aula no desenvolvimento. 
+
+[Projeto 2 - Spaceship Adventure](https://codepen.io/raynebatista/pen/wveXmOV)
