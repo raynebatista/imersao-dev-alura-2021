@@ -31,3 +31,26 @@ Como exercício extra, precisávamos acrescentar mais duas funções: chances li
 Desse modo, fiz o projeto 3 e pude aprender mais sobre o uso dos conceitos aprendidos em aula, além de ter que pesquisar mais sobre a documentação do Javascript, para que conseguisse esconder o botão de chute ao acertar o número ou quando as chances se esgotassem. 
 
 [Projeto 3 - Guess the number or...whatever.](https://codepen.io/raynebatista/pen/QWgBNJB)
+
+## Aula 4 - AluraFlix
+
+Nessa aula pude aprender os conceitos básicos de Arrays aplicados em um projeto de catálogo de filmes. 
+
+Resumidamente, vi como: 
+
+  - Criar Arrays
+  - Adicionar um item usando .push em um Array
+  - Usar o método .length
+  - Iterar o Array usando o for
+  - Selecionar elementos dentro de um array
+  - Usar a função document.write() para imprimir os postêres na tela
+
+Como desafios extras, adaptei um projeto voltado para catálogo de games, aplicando os conceitos aprendidos e implementando os desafios a seguir: 
+
+- Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente
+- Criar um campo e botão para adicionar a imagem pela tela, e não direto no código
+
+Além disso, com a ajuda do Stack Overflow (ufa! 😮‍💨 ) consegui fazer com que ao passar o mouse na tela as imagens fiquem maiores, dando destaque ao conteudo. 
+
+[Projeto 4 - Gaming Zone](https://codepen.io/raynebatista/pen/XWgBqXR)
+
