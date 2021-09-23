@@ -54,3 +54,18 @@ Além disso, com a ajuda do Stack Overflow (ufa! 😮‍💨 ) consegui fazer co
 
 [Projeto 4 - Gaming Zone](https://codepen.io/raynebatista/pen/XWgBqXR)
 
+## Aula 5 - ElektraFlix
+
+Aqui criamos a evolução do projeto da aula 4, aprendendo mais novos conceitos do Javascript, sendo eles: 
+
+- Uso do .endsWith()
+- Parâmetros de funções
+- Integrações de funções
+
+Como desafios extras, tivemos que:
+
+- Criar um botão para remover um filme na tela
+- Além de colocar a imagem do filme, também adicionar o nome por meio de outro input
+- Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme
+
+[Projeto 5 - ElektraFlix](https://codepen.io/raynebatista/pen/bGRxdxo)
