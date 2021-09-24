@@ -69,3 +69,25 @@ Como desafios extras, tivemos que:
 - Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme
 
 [Projeto 5 - ElektraFlix](https://codepen.io/raynebatista/pen/bGRxdxo)
+
+## Aula 6 - Objetos e tabelas de classificação
+
+Nessa aula aprendemos o que são os objetos no Javascript e exemplos de sua utilização através da criação de uma tabela de classificação para algum jogo. 
+
+Os objetivos da aula foram: 
+
+- Criar um objeto no Javascript para cada jogador;
+- Criar uma função que receba um objeto como parâmetro para calcular os pontos;
+- Exibir o objeto na página HTML;
+- Criar uma função para adicionar vitória, outra para adicionar empate e uma última para adicionar derrota;
+- Recalcular os pontos quando vitória ou empate for adicionado.
+
+Como exercícios extras, complementei o projeto:
+
+- Fazendo a lógica de que quando houver um empate, obrigatóriamente a tabela se ajuste como empate para os demais jogadores
+- Criando um botão para zerar todos os pontos
+- Criando um botão e inputs (campos de texto) para adicionar novos jogadores, com seus respectivos dados
+- Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação
+
+[Projeto 6 - Fungi - O jogo de cartas](https://codepen.io/raynebatista/pen/KKqxZWp)
+
