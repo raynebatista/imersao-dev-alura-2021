@@ -91,3 +91,20 @@ Como exercícios extras, complementei o projeto:
 
 [Projeto 6 - Fungi - O jogo de cartas](https://codepen.io/raynebatista/pen/KKqxZWp)
 
+## Aula 7 - Super Trunfo - Lógica do jogo
+
+Nessa aula, focamos no desenvolvimento da lógica do jogo, contemplando os seguintes conceitos:
+
+- Criar as cartas do jogo e definir seus atributos;
+- Desenvolver uma função para sortear uma carta para o jogador e outra para a máquina;
+- Exibir os atributos das cartas na tela para o jogador;
+- Obter o atributo escolhido pelo jogador e comparar com a carta da máquina;
+- Comparar o atributo de ambas as cartas e definir um vencedor.
+
+Como exercício extra, complementei o código com os seguintes desafios:
+
+- Verificar o que acontece caso o usuário não selecione nenhum dos atributos e como solucionar
+- Utilizar personagens que gosto para criar as cartas
+- Adicionar a imagem do personagem assim que você selecionar a carta dele
+
+[Projeto 7 - Super Trunfo](https://codepen.io/raynebatista/pen/jOwvzaX)
