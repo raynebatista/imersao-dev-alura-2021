@@ -106,5 +106,6 @@ Como exercício extra, complementei o código com os seguintes desafios:
 - Verificar o que acontece caso o usuário não selecione nenhum dos atributos e como solucionar
 - Utilizar personagens que gosto para criar as cartas
 - Adicionar a imagem do personagem assim que você selecionar a carta dele
+- Criar função que exibe carta da máquina somente após escolha de atributos.
 
-[Projeto 7 - Super Trunfo](https://codepen.io/raynebatista/pen/jOwvzaX)
+[Projeto 7 - Super Trunfo](https://codepen.io/raynebatista/pen/XWgodGZ)
