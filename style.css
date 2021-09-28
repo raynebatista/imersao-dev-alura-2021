@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  background: url("https://cdn.wallpapersafari.com/96/54/uPi4tA.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Roboto", sans-serif;
+  color: #1c1c1c;
+}
+
+.container {
+  background: #ffffff;
+  margin: 64px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px #0e1d2f;
+  padding: 64px;
+  width: 80%;
+}
+
+.perfil {
+  display: flex;
+  align-items: center;
+}
+
+.perfil-foto {
+  border-radius: 400px;
+  max-height: 160px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.titulo {
+  margin-left: 16px;
+}
+
+.titulo h1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.titulo h3 {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.projetos-title {
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+}
+.projetos {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.projetos li {
+  font-size: 36px;
+  list-style-type: none;
+  align-items: start;
+}
+
+a {
+  text-decoration: none;
+}
+
+.projetos li a:visited {
+  color: #2a2c2f;
+}
+
+.projetos li a:hover {
+  color: #ffcd00;
+}
+
+.personagem {
+  position: absolute;
+  width: 30%;
+  margin: auto;
+  top: 450px;
+  right: 100px;
+}
+.face {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background: #ffcd00;
+  display: flex;
+  justify-content: center;
+}
+
+.face::before {
+  content: "";
+  position: absolute;
+  top: 180px;
+  width: 150px;
+  height: 70px;
+  background: #b57700;
+  border-bottom-left-radius: 70px;
+  border-bottom-right-radius: 70px;
+  transition: 0.5s;
+}
+
+.face:hover::before {
+  top: 210px;
+  width: 150px;
+  height: 20px;
+  background: #b57700;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.olhos {
+  position: relative;
+  top: 50px;
+  display: flex;
+}
+
+.olhos .olho {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  display: block;
+  background: #fff;
+  margin: 0 15px;
+  border-radius: 50%;
+}
+
+.olhos .olho::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 25px;
+  transform: translate(-50%, -50%);
+  width: 40px;
+  height: 40px;
+  background: #333;
+  border-radius: 50%;
+}
+
+/* Fonte do personagem: https://www.youtube.com/watch?v=WqgKe3dcXxg */
